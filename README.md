@@ -12,7 +12,6 @@ Management) team in meeting this year’s objective. He has provided the dataset
   - To provide insight in the type of initiatives to further grow BrightTV ‘s User base.
     
 ##AIM of the case study.
-
 To perform an analysis of the SQL query which combines the user profile data with viewership data,  to generate a detailed summary of audience behavior.
 
 ##Objectives.
@@ -23,7 +22,7 @@ The following steps will be covered to meet the aim.
  -  Enable segmentation by age, time of day, and viewing habits.
   - Support audience analytics for targeted content or marketing strategies.
     
-##Tools and Technologiesused to impolement the project.
+##Tools and Technologies used to impolement the project.
 - Conversion of UTC timestamp
 - Top performingChannel 2 programmes identified.
 - Uses segmented by age, gender, province, age and time intervals
