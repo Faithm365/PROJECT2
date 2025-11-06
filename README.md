@@ -6,7 +6,7 @@ BrightTV ‘s CEO has an objective to grow the company’s subscription base for
 Management) team in meeting this year’s objective. He has provided the dataset containing the information on the user profiles and viewer transactions for BrightTV. 
 
 # Purpose of the case study.
-	-Provide insights on user and usage trends of BrightTV in 2016. 
+	-Provide insights on user and usage trends of BrightTV. 
  - Determine the type of factors influencing consumption? 
  - To give recommendations to increase consumption on the days with low consumption? 
   - To provide insight in the type of initiatives to further grow BrightTV ‘s User base.
