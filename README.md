@@ -1,11 +1,11 @@
-## PROJECT2.
+# PROJECT2.
 A Analysis of the user profile data with viewership data,  to generate a detailed summary of audience behaviour.
 
-##Introduction.
+#Introduction.
 BrightTV ‘s CEO has an objective to grow the company’s subscription base for this financial year. He has approached me to provide insights that would assist CVM (Customer Value 
 Management) team in meeting this year’s objective. He has provided the dataset containing the information on the user profiles and viewer transactions for BrightTV. 
 
-##Purpose of the case study.
+#Purpose of the case study.
 	-Provide insights on user and usage trends of BrightTV in 2016. 
  - Determine the type of factors influencing consumption? 
  - To give recommendations to increase consumption on the days with low consumption? 
@@ -14,7 +14,7 @@ Management) team in meeting this year’s objective. He has provided the dataset
 ##AIM of the case study.
 To perform an analysis of the SQL query which combines the user profile data with viewership data,  to generate a detailed summary of audience behavior.
 
-##Objectives.
+#Objectives.
 
 The following steps will be covered to meet the aim.
  - To perfom data inspection to assess the Bright TV user profile
@@ -22,7 +22,7 @@ The following steps will be covered to meet the aim.
  -  Enable segmentation by age, time of day, and viewing habits.
   - Support audience analytics for targeted content or marketing strategies.
     
-##Tools and Technologies used to impolement the project.
+#Tools and Technologies used to impolement the project.
 - Conversion of UTC timestamp
 - Top performingChannel 2 programmes identified.
 - Uses segmented by age, gender, province, age and time intervals
@@ -32,24 +32,24 @@ The following steps will be covered to meet the aim.
 -	Powerpoint presentation
 -	GITHUB to load the final report
   
-  ## Data Sources.
+  # Data Sources.
 BRIGHTTVUPROFILES (A): Contains user demographic and contact information.
 BRIGHTTV_VIEWERSHIP2 (B): Contains data on what users watched, when, and for how long.
 
-## Key Findings
+# Key Findings
 - Black male users in urban areas are the largest audience and more inclined to watch sports programmes. 
 - Music programs are the second best preferred  programmes.
 - The highest viewership is in Gauteng  followed by Western Cape and Mpumalanga.
 - The popular programmes run for 3 Hrs.
 
-##Recommendations
+#Recommendations
 - To increase viewership in regions with lower viewership, a local targeted advertisement campaigns can be introduced to market the programs.
 - Introduce more family and feminine orientated programmes to cater for all age groups and for a variety of interests..
 - Strengthen the evening programs
 - Introduce more digital accessible programs since the Youth and Adult groups have access to technology and data.
 All this will improve the viewership numbers and hence boost business.
 
-##Author.
+#Author.
 Motaung Faith
 Data Analyst
   
