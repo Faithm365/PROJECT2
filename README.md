@@ -1,5 +1,5 @@
 # Project2.
-A Analysis of the user profile data with viewership data,  to generate a detailed summary of audience behaviour.
+Analysis of the user profile data with viewership data,  to generate a detailed summary of audience behaviour.
 
 # Introduction.
 BrightTV ‘s CEO has an objective to grow the company’s subscription base for this financial year. He has approached me to provide insights that would assist CVM (Customer Value 
@@ -21,11 +21,7 @@ The following steps will be covered to meet the aim.
  -  Enable segmentation by age, time of day, and viewing habits.
   - Support audience analytics for targeted content or marketing strategies.
     
-# Tools and Technologies used to impolement the project.
-- Conversion of UTC timestamp
-- Top performingChannel 2 programmes identified.
-- Uses segmented by age, gender, province, age and time intervals
- # Tools used
+# Tools and Technologies used to implement the project.
 -	Snowflake to run SQL querries
 -	Microsoft excel to create pivot tables and graphs 
 -	Powerpoint presentation
@@ -36,10 +32,10 @@ BRIGHTTVUPROFILES (A): Contains user demographic and contact information.
 BRIGHTTV_VIEWERSHIP2 (B): Contains data on what users watched, when, and for how long.
 
 # Key Findings
-- Black male users in urban areas are the largest audience and more inclined to watch sports programmes. 
-- Music programs are the second best preferred  programmes.
+- Black male users in urban areas are the largest audience and more inclined to watch sports programs. 
+- Music programs are the second best preferred  programs.
 - The highest viewership is in Gauteng  followed by Western Cape and Mpumalanga.
-- The popular programmes run for 3 Hrs.
+- The popular programs run for 3 Hrs.
 
 # Recommendations
 - To increase viewership in regions with lower viewership, a local targeted advertisement campaigns can be introduced to market the programs.
